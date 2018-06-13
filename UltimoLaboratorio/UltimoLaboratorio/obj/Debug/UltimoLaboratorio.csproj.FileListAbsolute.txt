@@ -1,0 +1,12 @@
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\bin\Debug\UltimoLaboratorio.exe.config
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\bin\Debug\UltimoLaboratorio.exe
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\bin\Debug\UltimoLaboratorio.pdb
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.csprojResolveAssemblyReference.cache
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.Form1.resources
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.Principal.resources
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.Properties.Resources.resources
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.csproj.GenerateResource.cache
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.exe
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.pdb
+C:\Users\joaqu\source\repos\UltimoLaboratorio\UltimoLaboratorio\obj\Debug\UltimoLaboratorio.ButtonView.resources
